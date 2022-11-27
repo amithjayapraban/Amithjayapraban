@@ -4,7 +4,7 @@
 
    📘 Currently learning **Brainjs & Threejs**
 
-   🌐 [amithjayaprban.tk](amithjayaprban.tk)
+   🌐 [amithjayapraban.tk](https://amithjayapraban.tk)
 
    
 
