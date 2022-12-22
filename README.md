@@ -1,8 +1,8 @@
-<body>
+<body >
 <h1 align="center">Hi 👋, I'm Amith Jayapraban</h1>
 <h3 align="center">A passionate frontend developer from Kerala, India.</h3>
 
-   📘 Currently learning **Brainjs & Threejs**
+   
 
    🌐 [amithjayapraban.tk](https://amithjayapraban.tk)
 
