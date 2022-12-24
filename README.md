@@ -3,7 +3,7 @@
 # About Me
 
 <p> Hi 👋, I'm Amith Jayapraban <br> </p>
-<p> A passionate frontend developer from Kerala, India. <p> 
+<p> Frontend developer from Kerala, India. <p> 
 
 
 <p align="left">
