@@ -6,26 +6,6 @@
 <p> Frontend developer from Kerala, India. <p> 
 
 
-<p align="left">
-   <a href="https://amithjayapraban.tk" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" alt="amithjayapraban" height="40" width="40" /></a>
-<a href="https://codepen.io/amithjayapraban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amithjayapraban" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amithjayapraban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amithjayapraban" height="30" width="40" /></a>
-  
-</p>  
-   
- #
-<br>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=amithjayapraban&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amithjayapraban&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-   
-
-  
-   
 
 
 
