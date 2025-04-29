@@ -1,8 +1,7 @@
-<body >
 
-# About Me
 
-<p> Hi 👋 <br> I'm Amith Jayapraban. <br></p>
+#### About Me
+
 SDE-I @ HashedIn by Deloitte.
 
 
