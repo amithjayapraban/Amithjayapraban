@@ -2,7 +2,7 @@
 
 #### About Me
 
-SDE-I @ HashedIn by Deloitte.
+Software Engineer @ HashedIn by Deloitte.
 
 
 
